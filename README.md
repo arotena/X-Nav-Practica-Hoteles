@@ -13,7 +13,8 @@ No podremos añadir colecciones ni alojados hasta que no carguemos el fichero do
 No admite nombres de alojamientos repetidos en una misma coleccion ni usuarios repetidos dentro de un mismo hotel.
 Si guardas antes de cargar nada el contenido del fichero estara vacio.
 Cuando guardas el color de los draggable y droppable vuelve a su estado de origen.
-Dispone de autocompletar en la pestaña de gestion de alojados para el nombre de los hoteles
+Dispone de autocompletar en la pestaña de gestion de alojados para el nombre de los hoteles.
+Cuando da error al cargar o al guardar las colecciones y los alojados saca un popup.
 <h5>Video</h5>
 <a href="https://www.youtube.com/watch?v=xyRq7WBCs3g">https://www.youtube.com/watch?v=xyRq7WBCs3g</a>
 <h6>Enlace:</h6>
