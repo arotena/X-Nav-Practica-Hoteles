@@ -16,3 +16,5 @@ Cuando guardas el color de los draggable y droppable vuelve a su estado de orige
 Dispone de autocompletar en la pestaña de gestion de alojados para el nombre de los hoteles
 <h5>Video</h5>
 <a href="https://www.youtube.com/watch?v=xyRq7WBCs3g">https://www.youtube.com/watch?v=xyRq7WBCs3g</a>
+<h6>Enlace:</h6>
+<a href="http://arotena.github.io/X-Nav-Practica-Hoteles/">http://arotena.github.io/X-Nav-Practica-Hoteles/</a>
